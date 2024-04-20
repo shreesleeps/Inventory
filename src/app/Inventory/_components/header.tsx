@@ -20,7 +20,7 @@ export default function Header() {
     <>
       <div className="w-full flex-grow overflow-auto flex flex-row px-[30px] items-center justify-between">
         <div className="flex flex-row items-center text-[24px] font-semibold select-none pointer-events-none">
-          What's new, Shree?
+          What's new, Jordan?
         </div>
         <div className="flex flex-row items-center gap-4">
           <button
